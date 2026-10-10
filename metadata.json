@@ -1,0 +1,6 @@
+{
+  "name": "BFFMeter - Friendship Quiz & Social Scoreboard",
+  "description": "Create a personalized friendship quiz about yourself, share your secret link with friends, and see who knows you best on real-time leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
